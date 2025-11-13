@@ -4,7 +4,7 @@
 
 ### Primera parte
 
-![primeraParte](./images/firstPart.jpg)
+![primeraParte](./assets/images/firstPart.jpg)
 
 ### Segunda parte
 
