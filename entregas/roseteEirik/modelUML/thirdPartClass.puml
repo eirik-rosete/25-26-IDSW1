@@ -26,7 +26,6 @@ Attribute "0..*" --> "*" Constraint : could have
 Table .up.> Database : depends on a
 Table .up.> Schema : needs a
 
-
 Key <|-- Foreign : inherits
 Key <|-- Primary : inherits
 
